@@ -94,39 +94,46 @@ print(schema)
 The project follows a structured analytical workflow:
 
 ### 1. Data Ingestion & Schema Inspection
+
 - Load datasets.
 - Inspect structures and data types.
 - Examine initial dataset properties.
 
 ### 2. Exploratory Data Analysis (EDA)
+
 - Investigate missing values.
 - Analyze categorical distributions.
 - Identify duplicate records.
 - Examine temporal coverage and data consistency.
 
 ### 3. Data Cleaning & Transformation
+
 - Standardize date fields.
 - Handle categorical attributes.
 - Validate numerical data types.
 - Prepare relevant analytical indicators.
 
 ### 4. Data Quality Decisions
+
 - Evaluate missing values.
 - Investigate negative sales.
 - Examine incomplete auxiliary records.
 - Identify potential data inconsistencies.
 
 ### 5. Data Integration
+
 - Validate relationships between sales records and reference datasets.
 - Prevent unintended row multiplication during joins.
 
 ### 6. Analytical Investigation
+
 - Explore temporal patterns.
 - Evaluate store and product performance.
 - Analyze promotional activity.
 - Investigate potential external relationships.
 
 ### 7. Power BI Reporting
+
 - Translate analytical findings into an interactive business report.
 - Develop KPIs and visual comparisons.
 - Present insights through six analytical pages.
@@ -215,60 +222,53 @@ The final report consists of six analytical pages:
 
 ### Dashboard Preview
 
-*Replace the image paths below with your actual dashboard screenshots.*
-
 #### 1. Executive Overview
 
-![Executive Overview](Images/executive_overview.png)
+![Executive Overview](Images/Executive%20Overview.png)
 
 #### 2. Time Analysis
 
-![Time Analysis](Images/time_analysis.png)
+![Time Analysis](Images/Time%20Analysis.png)
 
 #### 3. Store Performance
 
-![Store Performance](Images/store_performance.png)
+![Store Performance](Images/Store%20Performance%20.png)
 
 #### 4. Product Performance
 
-![Product Performance](Images/product_performance.png)
+![Product Performance](Images/Product%20Performance%20.png)
 
 #### 5. Geographic Analysis
 
-![Geographic Analysis](Images/geographic_analysis.png)
+![Geographic Analysis](Images/Geographic%20Analysis.png)
 
 #### 6. External Factors & Drivers
 
-![External Factors](Images/external_factors.png)
+![External Factors](Images/External%20Factors%20.png)
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-Favorita-Grocery-Sales-Analysis/
+favorita-grocery-sales-forecasting/
 │
-├── README.md
+├── Images/
+│   ├── Executive Overview.png
+│   ├── External Factors .png
+│   ├── Geographic Analysis.png
+│   ├── Product Performance .png
+│   ├── Store Performance .png
+│   └── Time Analysis.png
+│
+├── Main Notebook/
+│
+├── Report/
+│
 ├── Methodology.md
-├── Stakeholder_Report.pdf
-│
-├── notebooks/
-│   └── EDA and analytical notebooks
-│
-├── scripts/
-│   └── Data processing scripts
-│
-├── data/
-│   └── Dataset files or data references
-│
-├── powerbi/
-│   └── Power BI report
-│
-└── images/
-    └── Dashboard screenshots
+├── README.md
+└── Stakeholder Business Report.pdf
 ```
-
-> **Note:** The structure above describes the intended organization of the project repository. Update it to match the actual repository contents.
 
 ---
 
@@ -279,7 +279,7 @@ For a deeper understanding of the project:
 | Document | Description |
 |---|---|
 | [Methodology.md](Methodology.md) | Detailed data processing, cleaning decisions, analytical methods, validation, and limitations |
-| [Stakeholder_Report.pdf](Stakeholder_Report.pdf) | Business-oriented summary of analytical findings and recommendations |
+| [Stakeholder Business Report.pdf](Stakeholder%20Business%20Report.pdf) | Business-oriented summary of analytical findings and recommendations |
 
 ---
 
