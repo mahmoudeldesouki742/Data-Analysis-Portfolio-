@@ -124,9 +124,9 @@ I'm always open to connecting with fellow data professionals, developers, and an
 
 Feel free to explore my projects or reach out through the following platforms:
 
-- **Email:** [Email](YOUR_EMAIL_LINK)
-- **LinkedIn:** [LinkedIn](YOUR_LINKEDIN_URL)
-- **GitHub:** [GitHub](YOUR_GITHUB_URL)
+- **Email:** [Email](mahmoudeldesouki.contact@gmail.com)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/mahmoud-el-desouki)
+- **GitHub:** [GitHub](https://github.com/mahmoudeldesouki742)
 
 ---
 
